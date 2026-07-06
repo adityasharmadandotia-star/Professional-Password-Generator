@@ -143,4 +143,4 @@ Displays the password in high-contrast cyan, alongside colorized strength indica
 
 ## 👤 Author
 
-Developed by **Pragy** – _Python Developer & Portfolio Designer_.
+Developed by **Aditya Sharma** – _Python Developer & Portfolio Designer_.
